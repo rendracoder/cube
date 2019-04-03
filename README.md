@@ -1,2 +1,2 @@
-# cube
+# money cube
 auto cube
